@@ -5,6 +5,12 @@
 
 > React / Redux(saga) / Firebase, clothing website - from zero to mastery course.
 
+## Get code on your machine
+
+```sh
+git clone git@github.com:Archaeologist03/e-commerce-clothing-shop.git
+```
+
 ## Install
 
 ```sh
